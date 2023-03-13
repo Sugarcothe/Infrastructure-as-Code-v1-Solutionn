@@ -5,5 +5,5 @@ This repo contains the solution to:
 2. lesson-2-Infrastructure as Code
 3. lesson-3-Networking Infrastructure
 4. lesson-4-Servers and Security Groups
-5. lesson-5-Storage and Databases
+5. lesson-5-Storage and Database
 
